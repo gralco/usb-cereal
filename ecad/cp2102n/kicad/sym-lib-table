@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "usb-cereal-cp-sch-altium-import")(type "KiCad")(uri "${KIPRJMOD}/usb-cereal-cp-sch-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "usb-cereal-cp-sys-altium-import")(type "KiCad")(uri "${KIPRJMOD}/usb-cereal-cp-sys-altium-import.kicad_sym")(options "")(descr ""))
+)
